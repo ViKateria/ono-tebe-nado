@@ -290,6 +290,11 @@ main {
     font-size: 20px;
     line-height: 24px;
     width: 688px;
+    margin-top: 24px;
+}
+
+.about__text:first-of-type {
+    margin-top: 0;
 }
 
 .about__letter-spacing_1 {
@@ -302,14 +307,6 @@ main {
 
 .about__letter-spacing_3 {
     letter-spacing: 0.02em;
-}
-
-.about__text {
-    margin-top: 24px;
-}
-
-.about__text:first-of-type {
-    margin-top: 0;
 }
 
 .footer {
